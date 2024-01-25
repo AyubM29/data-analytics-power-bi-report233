@@ -75,6 +75,26 @@ Milestone 4: Set up the Report:
 
 At this stage i created four report pages, these were named Executive Summary, Customer Detail, Product Detail and Stores Map.
 
+Milestone 5: Build The Customer Detail Page
+
+I was tasked with creating the following visuals:
+
+Headline Card Visuals - Used the 'card' visual to create visuals for Total Customers and Revenue Per Customer which was a new measure i created.
+
+Summary Chart Visual - Used the 'donut' visual with Unique Customers in the values secton and Country in the details section.
+
+Line Chart - Used the 'Line Chart' visual and had the Date Hierarchy as the x value and Unique Customers as the y value.
+
+Top 20 Customers Table - new table created which displays the top 20 customers, filtered by revenue.
+
+Top Customer Cards - 3 card visuals providing insights into the top customer by revenue, name and number of orders.
+
+Date Slicer - Slicer added to allow users to filter ther page by year using the between slicer style.
+
+
+
+
+
 
 
 
