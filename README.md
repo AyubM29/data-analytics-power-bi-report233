@@ -12,7 +12,7 @@ In this project the first phase was focused on data loading and preparation. I c
 
 . A folder of .CSV files (Source of the Customers table)
 
-MILESTONE 2: Importing the Data into Power BI
+ ### Milestone 2: Importing the Data into Power BI
 
 Before starting any data analysis project , it is very important to carefully load and clean the data to ensure relevant and concise analysis. Therefore, the project started with loading and transforming various tables namely; 'Orders', 'Products', 'Stores' and 'Customers'. These tables were loaded ad transformed using a variety of Get Data Options including Azure SQL Database, CSV file, Azure Blob Storage and a folder.
 To ensure that all the data was relevant and of value, key transformations were made to the data. To begin with, any columns which compromised privacy were removed. The Column named [Card Number] was removed from the 'Orders' table. The split column feature was used to seperate the [order Date] and [Shipping Date] columns into two distinct columns, one for date and another for time.
