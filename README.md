@@ -174,6 +174,39 @@ Product Detail:
 
 Only one visual on this page was altered, that being the 'Quantity Sold vs Profit Per Item scatter graph to ensure the scatter graph does not affect any of the other visuals.
 
+Naviagtion Bar:
+
+On each of the four report pages you will find a navigation pane. The 4 buttons on each pane allow for you to navigate between the pages. Each icon button on the pane relates to one of the pages and clicking on them will direct you to the relevant page.
+
+MILESTONE 10: Create Metrics for Users Outside the Comapny Using SQL
+
+I ended off the project by creating metrics for users outside the company using SQL. I did this by using VisualStudio and SQLTools extension. I began by creating a connection to the Postgres database server hosted on Microsoft Azure through the following steps:
+
+Connected to the SQL Server through VSCode.
+
+. Connection Name: OrdersDB
+
+. Connect Using: Server and Port
+
+. Server address: powerbi-data-analytics-server.postgres.database.azure.com
+
+. Port: 5432
+
+. Database: orders-db
+
+. Username: ****
+
+. Password: Ask on connect
+
+This was done using SQLTools extension which can be found in the extensions tab, and i used the PostgresSQK connection.
+
+
+
+
+
+
+
+
 
 
 
