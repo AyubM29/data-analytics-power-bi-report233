@@ -51,21 +51,21 @@ A Schema was created to connect each data table with their unique keys. Product 
 
 Creating Key Measures:
 
-The following key measure were added:
+The following key measures were added:
 
-Total Orders = 
+Total Orders  
 
-Total Revenue = 
+Total Revenue  
 
-Total Profit = 
+Total Profit 
 
-Total Customers = 
+Total Customers  
 
-Total Quantity = 
+Total Quantity 
 
-Profit YTD = 
+Profit YTD 
 
-Revenue YTD = 
+Revenue YTD 
 
 Creating Date and Geography Hierachies:
 
