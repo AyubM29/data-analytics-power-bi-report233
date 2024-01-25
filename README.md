@@ -200,6 +200,15 @@ Connected to the SQL Server through VSCode.
 
 This was done using SQLTools extension which can be found in the extensions tab, and i used the PostgresSQL connection.
 
+Check the Table and Column names:
+
+I was first tasked with printing a list of the tables in the database and saving the results to a csv file. This can be found in the 'table_name.csv' file.
+
+Next i printed a list of the columns in all the tables seperately and saved each of their results in their csv files. This can be found by the files named 'dim_customers.csv', 'dim_date.csv', 'dim_store.csv', 'dim_products.csv and 'Orders_columns.csv'.
+
+Query the Database:
+
+
 
 
 
