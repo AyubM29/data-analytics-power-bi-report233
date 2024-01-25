@@ -107,6 +107,24 @@ KPI Visuals - For this i needed to create three measures, these being Previous Q
 
 MILESTONE 7: Create a Product Detail Page
 
+The purpose of this page was to provide an in-depth look at which productswithin the inventory were performing well, with the option to filter by product and region.
+To achieve this i built a report page that provides insights for all products and regions combined. Additonally to allow for users of the report to filter data easily, i created a pop-up banner using bookmarks and a slicer toolbar which can be accessed from the navigation pane. The Product Detail Page i created contains the following visuals:
+
+Gauge Visuals - Showing how the selected category's revenue, profit and number of orders are performing against a quarterly target.
+
+Area Chart - Shwoing the relative revenue performance of each category over time.
+
+Table - Showing the Top 10 Products by revenue in the selected context.
+
+Scatter Graph - Showing quantity ordered against profit per item for products. This was a new measure created using a DAX formula.
+
+Lastly a Slicer Toolbar was also created to provide clarity and reduce cluttering on the page. Using a button that links to a bookmark, a menu is opened which allows for slicing on the page for product catergory and country. This menu can be closed again with the back button linking to a bookmark of the original page, which also keeping the changes of the data.
+
+MILESTONE 8: Create a Stores Map Page
+
+
+
+
 
 
 
