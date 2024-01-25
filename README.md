@@ -148,7 +148,34 @@ Column Chart - Showing Total Orders by Products.
 
 Gauge - Showing Profit YTD and Revenue YTD against Target.
 
-Card - Showing current store the gauge visual compares against the current YTD against the previous YTD at the point in the year where the target is a 20& increase.
+Card - Showing current store the gauge visual compares against the current YTD against the previous YTD at the point in the year where the target is a 20% increase.
+
+Tooltip Page:
+
+The aim of this was for users to be able to see each stores year-to-date profit performance against the profit target just by hovering the mouse over a store on the map. To do this, i created a custom tooltip page with a profit gauge visual, and then set the tooltip of the visual to the tooltip page which i created. to reveal the tooltip, simply hover over the data of concern in the 'stores map' visual page.
+
+MILESTONE 9: Cross-filtering and Navigation
+
+Cross-filtering and creating a navigation pane help in creating structure to the report aswell as making the pages easier to navigate and analyse.
+
+Cross-filtering:
+
+This is an interaction between visuals on a report page. It causes visuals to change based on filters applied to visuals. There however comes times where we would not want for cross filtering to occur as this may cause confusion and is more harm than good. For this task i needed to alter the cross-filtering for the report pages as seen below.
+
+Executive Summary:
+
+For this page i had to alter the cross-filtering so the 'Orders by Category' chart and the 'Top 10 Products' table would not filter the card visuals or the KPI's.
+
+Customer Detail:
+
+For this page, i had to make sure the 'Top 20 Customers' table does not filter any of the other visuals. Moreover, i also altered the interaction between the 'Total Customers by Category' chart and the 'Total Customers' line graph to make sure the chart does not affect the line graph. Lastly, the 'Total Customers by Country' donut chart was altered to ensure it cross-filtered the 'Total Customers by Category' chart.
+
+Product Detail:
+
+Only one visual on this page was altered, that being the 'Quantity Sold vs Profit Per Item scatter graph to ensure the scatter graph does not affect any of the other visuals.
+
+
+
 
 
 
