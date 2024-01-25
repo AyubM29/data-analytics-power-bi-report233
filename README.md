@@ -1,6 +1,6 @@
 A medium-sized International Retail Company Data Analysis Power BI Report
 
-Project Description
+Project Description:
 
 In this project the first phase was focused on data loading and preparation. I connected to a range of sources in order to acquire the relevant datasets- this included:
 
@@ -44,5 +44,13 @@ Start of Quarter
 Start of Month
 
 Start of Week
+
+Building a Star Schema Data Model:
+
+A Schema was created to connect each data table with their unique keys. Product Codes, Store codes, User ID's, Order Dates/Shipping Dates. A Measures table was also added in this step, with the steps for this this table being created shown below.
+
+Creating Key Measures:
+
+
 
 
