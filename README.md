@@ -2,15 +2,12 @@
 
  ## Project Description
 
-In this project the first phase was focused on data loading and preparation. I connected to a range of sources in order to acquire the relevant datasets- this included:
+In this project the first phase was focused on data loading and preparation. I connected to a range of sources in order to acquire the relevant datasets, this included:
 
-. Azure SQL Database (Source of the Orders Table)
-
-. A file of .CSV file (Source of the Products Table)
-
-. Azure Blob Storage (Source of the Stores table)
-
-. A folder of .CSV files (Source of the Customers table)
+- Azure SQL Database (Source of the Orders Table)
+- A file of .CSV file (Source of the Products Table)
+- Azure Blob Storage (Source of the Stores table)
+- A folder of .CSV files (Source of the Customers table)
 
  ### Milestone 2: Importing the Data into Power BI
 
