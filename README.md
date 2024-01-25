@@ -67,6 +67,15 @@ Profit YTD =
 
 Revenue YTD = 
 
+Creating Date and Geography Hierachies:
+
+Hierachies were created as this allowed for drill downs on the report and better analysis.
+
+Milestone 4: Set up the Report:
+
+At this stage i created four report pages, these were named Executive Summary, Customer Detail, Product Detail and Stores Map.
+
+
 
 
 
