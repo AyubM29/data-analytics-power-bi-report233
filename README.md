@@ -51,6 +51,25 @@ A Schema was created to connect each data table with their unique keys. Product 
 
 Creating Key Measures:
 
+The following key measure were added:
+
+Total Orders = 
+
+Total Revenue = 
+
+Total Profit = 
+
+Total Customers = 
+
+Total Quantity = 
+
+Profit YTD = 
+
+Revenue YTD = 
+
+
+
+
 
 
 
