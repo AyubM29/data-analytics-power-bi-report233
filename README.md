@@ -198,7 +198,7 @@ Connected to the SQL Server through VSCode.
 
 . Password: Ask on connect
 
-This was done using SQLTools extension which can be found in the extensions tab, and i used the PostgresSQK connection.
+This was done using SQLTools extension which can be found in the extensions tab, and i used the PostgresSQL connection.
 
 
 
