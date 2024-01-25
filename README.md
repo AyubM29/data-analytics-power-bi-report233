@@ -208,6 +208,27 @@ Next i printed a list of the columns in all the tables seperately and saved each
 
 Query the Database:
 
+I was finally tasked with writing SQL queries to answer five questions. In each case once i got my desired result, i exported the results to csv files along with saving the query itself as sql files.
+
+Q1 - "How many staff are there in all of the UK stores?
+
+The sql queries and the result can be found in 'question_1.sql' and 'question_1.csv'.
+
+Q2 - "Which Month in 2022 has had the highest revenue in 2022"?
+
+The sql queries and the result can be found in 'question_2.sql' and 'question_2.csv'.
+
+Q3 - " Which German Sstore type had the highest revenue for 2022"?
+
+The sql queries and the result can be found in 'question_3.sql' and 'question_3.csv'.
+
+Q4 - "Create a view where the rows are the store types and the columns are the total sales, percentage of total sales and the count of orders".
+
+The sql queries and the result can be found in 'question_4.sql' and 'question_4.csv'.
+
+Q5 - "Which product category generated the most profit for the "Wiltshire, UK" region in 2021"?
+
+The sql queries and the result can be found in 'question_5.sql' and 'question_5.csv'.
 
 
 
