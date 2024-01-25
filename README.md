@@ -122,6 +122,14 @@ Lastly a Slicer Toolbar was also created to provide clarity and reduce clutterin
 
 MILESTONE 8: Create a Stores Map Page
 
+Stores Map:
+
+In this section, i added a Stores Map Page which led to also creating a Stores Drillthrough and Tooltip Page to allow for easier navigation through the map visual. 
+I began by adding a Map Visual. Above this Map, i added a Country Slicer to the top of the page.
+Next i created a Drillthrough Page which summarises each stores performance. It is important to note here add the country column to the drillthrough option on the drillthrough page as this will allow you to right-click  on the map visual to drillthrough.
+Finally i also created a tooltip page with a Profit YTD Guage visual.
+
+
 
 
 
