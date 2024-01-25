@@ -52,11 +52,11 @@ Creating Date and Geography Hierachies:
 
 Hierachies were created as this allowed for drill downs on the report and better analysis.
 
-##### Milestone 4: Set up the Report:
+### Milestone 4: Set up the Report:
 
 At this stage i created four report pages, these were named Executive Summary, Customer Detail, Product Detail and Stores Map.
 
-###### Milestone 5: Build The Customer Detail Page
+### Milestone 5: Build The Customer Detail Page
 
 I was tasked with creating the following visuals:
 
@@ -67,7 +67,7 @@ I was tasked with creating the following visuals:
 - Top Customer Cards - Created 3 card visuals providing insights into the top customer by revenue, name and number of orders.
 - Date Slicer - Slicer added to allow users to filter ther page by year using the between slicer style.
 
-####### Milestone 6: Create an Executive Summary Page
+### Milestone 6: Create an Executive Summary Page
 
 The following visuals were created for this page:
 
@@ -77,7 +77,7 @@ The following visuals were created for this page:
 - Bar Chart - Showing Total Orders by Category
 - KPI Visuals - For this i needed to create three measures, these being Previous Quarter Profit, Previous Quarter Revenue and Previous Quarter Orders.
 
-####### Milestone 7: Create a Product Detail Page
+### Milestone 7: Create a Product Detail Page
 
 The purpose of this page was to provide an in-depth look at which productswithin the inventory were performing well, with the option to filter by product and region.
 To achieve this i built a report page that provides insights for all products and regions combined. Additonally to allow for users of the report to filter data easily, i created a pop-up banner using bookmarks and a slicer toolbar which can be accessed from the navigation pane. The Product Detail Page i created contains the following visuals:
@@ -89,7 +89,7 @@ To achieve this i built a report page that provides insights for all products an
 
 Lastly a Slicer Toolbar was also created to provide clarity and reduce cluttering on the page. Using a button that links to a bookmark, a menu is opened which allows for slicing on the page for product catergory and country. This menu can be closed again with the back button linking to a bookmark of the original page, which also keeping the changes of the data.
 
-######## Milestone 8: Create a Stores Map Page
+### Milestone 8: Create a Stores Map Page
 
 Stores Map:
 
@@ -120,7 +120,7 @@ Tooltip Page:
 
 The aim of this was for users to be able to see each stores year-to-date profit performance against the profit target just by hovering the mouse over a store on the map. To do this, i created a custom tooltip page with a profit gauge visual, and then set the tooltip of the visual to the tooltip page which i created. to reveal the tooltip, simply hover over the data of concern in the 'stores map' visual page.
 
-######### Milestone 9: Cross-filtering and Navigation
+### Milestone 9: Cross-filtering and Navigation
 
 Cross-filtering and creating a navigation pane help in creating structure to the report aswell as making the pages easier to navigate and analyse.
 
@@ -144,7 +144,7 @@ Naviagtion Bar:
 
 On each of the four report pages you will find a navigation pane. The 4 buttons on each pane allow for you to navigate between the pages. Each icon button on the pane relates to one of the pages and clicking on them will direct you to the relevant page.
 
-########## Milestone 10: Create Metrics for Users Outside the Comapny Using SQL
+### Milestone 10: Create Metrics for Users Outside the Comapny Using SQL
 
 I ended off the project by creating metrics for users outside the company using SQL. I did this by using VisualStudio and SQLTools extension. I began by creating a connection to the Postgres database server hosted on Microsoft Azure through the following steps:
 
