@@ -129,9 +129,26 @@ I began by adding a Map Visual. Above this Map, i added a Country Slicer to the 
 Next i created a Drillthrough Page which summarises each stores performance. It is important to note here add the country column to the drillthrough option on the drillthrough page as this will allow you to right-click  on the map visual to drillthrough.
 Finally i also created a tooltip page with a Profit YTD Guage visual.
 
+Map:
 
+Using a map visual is ideal for understanding geographical data. It allows the user to visually see the distribution of the stores.
 
+Slicer Tile:
 
+The slicer visual allows the map visualisation to change depending on the geographical location selected. This allows for the user to focus the visualisation to the locations that they want to see.
+For the location, a hierarchy has been used which menas the user is able to drill up and down the map to see 'World Region', 'Country Region' and 'Country'.
+
+Stores Drillthrough Page:
+
+I created a Stores Drillthrough Page for the purpose of summarising each stores performance. The contents of this page are as follows:
+
+Table - Showing Top 5 Products, highlighting Profit YTD, Total Orders and Total Revenue.
+
+Column Chart - Showing Total Orders by Products.
+
+Gauge - Showing Profit YTD and Revenue YTD against Target.
+
+Card - Showing current store the gauge visual compares against the current YTD against the previous YTD at the point in the year where the target is a 20& increase.
 
 
 
