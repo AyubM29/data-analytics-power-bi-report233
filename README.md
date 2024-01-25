@@ -1,6 +1,6 @@
-A medium-sized International Retail Company Data Analysis Power BI Report
+# A medium-sized International Retail Company Data Analysis Power BI Report
 
-PROJECT DESCRIPTION:
+ ## Project Description
 
 In this project the first phase was focused on data loading and preparation. I connected to a range of sources in order to acquire the relevant datasets- this included:
 
