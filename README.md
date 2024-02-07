@@ -18,7 +18,7 @@ Columns were combined to make for clear data with columns [First Name] and [Last
 
 ### Data Model
 
-Next, i was tasked with constructing the data model for the project. This consisted of creating a Date Table, a star based schema, creating key measures to incorporate important metrics and establishing date and geographic hierachies.
+Next, i went on to construct the data model for the project. This consisted of creating a Date Table, a star based schema, creating key measures to incorporate important metrics and establishing date and geographic hierachies.
 
 Creating a Date Table:
 
@@ -58,7 +58,7 @@ At this stage i created four report pages, these were named Executive Summary, C
 
 ### Customer Detail Page
 
-I was tasked with creating the following visuals:
+In this section, the following visuals were created:
 
 - Headline Card Visuals - Used the 'card' visual to create visuals for Total Customers and Revenue Per Customer which was a new measure i created.
 - Summary Chart Visual - Used the 'donut' visual with Unique Customers in the values secton and Country in the details section.
@@ -130,11 +130,11 @@ This is an interaction between visuals on a report page. It causes visuals to ch
 
 Executive Summary:
 
-For this page i had to alter the cross-filtering so the 'Orders by Category' chart and the 'Top 10 Products' table would not filter the card visuals or the KPI's.
+For this page i altered the cross-filtering so the 'Orders by Category' chart and the 'Top 10 Products' table would not filter the card visuals or the KPI's.
 
 Customer Detail:
 
-For this page, i had to make sure the 'Top 20 Customers' table does not filter any of the other visuals. Moreover, i also altered the interaction between the 'Total Customers by Category' chart and the 'Total Customers' line graph to make sure the chart does not affect the line graph. Lastly, the 'Total Customers by Country' donut chart was altered to ensure it cross-filtered the 'Total Customers by Category' chart.
+For this page, i made sure the 'Top 20 Customers' table did not filter any of the other visuals. Moreover, i also altered the interaction between the 'Total Customers by Category' chart and the 'Total Customers' line graph to make sure the chart does not affect the line graph. Lastly, the 'Total Customers by Country' donut chart was altered to ensure it cross-filtered the 'Total Customers by Category' chart.
 
 Product Detail:
 
@@ -162,13 +162,13 @@ This was done using SQLTools extension which can be found in the extensions tab,
 
 Check the Table and Column names:
 
-I was first tasked with printing a list of the tables in the database and saving the results to a csv file. This can be found in the 'table_name.csv' file.
+I first began by printing a list of the tables in the database and saving the results to a csv file. This can be found in the 'table_name.csv' file.
 
 Next i printed a list of the columns in all the tables seperately and saved each of their results in their csv files. This can be found by the files named 'dim_customers.csv', 'dim_date.csv', 'dim_store.csv', 'dim_products.csv and 'Orders_columns.csv'.
 
 Query the Database:
 
-I was finally tasked with writing SQL queries to answer five questions. In each case once i got my desired result, i exported the results to csv files along with saving the query itself as sql files.
+Finally, i went onto write SQL queries to answer five questions. In each case once i got my desired result, i exported the results to csv files along with saving the query itself as sql files.
 
 Q1 - "How many staff are there in all of the UK stores?
 
